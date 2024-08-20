@@ -1,4 +1,4 @@
-# idcard
+# FitGenie
 
 A new Flutter project.
 
